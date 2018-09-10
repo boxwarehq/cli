@@ -25,8 +25,6 @@ Boxware compresses video of your software running on our servers and streams it 
 
 # ✨ Add a 'Try on Boxware' button to your repository for free: 
 
-### TL;DR Version: 
-
 ### Step 1 : Enter your repository folder using your terminal  
 
 ### Step 2 : Use the Boxware CLI to auto-generate `boxware.json` manifest file in your repository: 
