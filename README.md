@@ -8,7 +8,7 @@ Boxware let's you try, use & modify desktop software in your browser without dow
 [![GitHub license](https://img.shields.io/github/license/boxwarehq/cli.svg)](https://github.com/boxwarehq/cli) 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io) 
 
-![Try on Boxware GIF](https://cdn.boxware.io/try/onboxware.gif)
+![Try on Boxware GIF](https://cdn.boxware.io/try/tryonboxware.smaller.gif)
 
 # 🗒 Description
 
