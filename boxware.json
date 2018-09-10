@@ -1,0 +1,13 @@
+{
+    "name": "Boxware Test",
+    "version": "0.0.1",
+    "description": "Test App Manifest",
+    "repository": "https://github.com/boxwarehq/cli",
+    "image": "boxware/ubuntu-base",
+    "hardware": "t2.medium",
+    "folder": "~/AwesomeTestFolder/Sub",
+    "commands": [
+        "subl boxware.json",
+        "subl package.json"
+    ]
+}

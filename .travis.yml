@@ -1,0 +1,6 @@
+before_install:
+  - npm i -g npm@latest
+language: node_js
+node_js:
+  - "node"
+os: osx

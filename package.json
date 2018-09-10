@@ -1,0 +1,65 @@
+{
+  "name": "boxware",
+  "description": "A command line interface to boxware.io",
+  "version": "0.0.3",
+  "author": "Somesh Kar @someshkar",
+  "bin": {
+    "boxware": "./bin/run"
+  },
+  "bugs": "https://github.com/boxwarehq/cli/issues",
+  "dependencies": {
+    "@oclif/command": "^1.5.0",
+    "@oclif/config": "^1.7.4",
+    "@oclif/plugin-help": "^2.1.1",
+    "@types/inquirer": "0.0.43",
+    "@types/node-notifier": "0.0.28",
+    "chalk": "^2.4.1",
+    "clipboard": "^2.0.1",
+    "clipboardy": "^1.2.3",
+    "inquirer": "^6.2.0",
+    "node-notifier": "^5.2.1",
+    "shelljs": "^0.8.2",
+    "tslib": "^1.9.3"
+  },
+  "devDependencies": {
+    "@oclif/dev-cli": "^1.18.0",
+    "@types/chai": "^4.1.4",
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.9.3",
+    "globby": "^8.0.1",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "/bin",
+    "/lib",
+    "/npm-shrinkwrap.json",
+    "/oclif.manifest.json"
+  ],
+  "homepage": "https://github.com/boxwarehq/boxware-cli",
+  "keywords": [
+    "boxware", "boxware-cli", "oclif"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "oclif": {
+    "commands": "./lib/commands",
+    "bin": "boxware",
+    "plugins": [
+      "@oclif/plugin-help"
+    ]
+  },
+  "repository": "boxwarehq/boxware-cli",
+  "scripts": {
+    "postpack": "rm -f oclif.manifest.json npm-shrinkwrap.json",
+    "posttest": "tsc -p . --noEmit",
+    "prepack": "rm -rf lib && tsc && oclif-dev manifest && oclif-dev readme && npm shrinkwrap",
+    "prepare": "rm -rf lib && tsc",
+    "test": "echo NO TESTS",
+    "version": "oclif-dev readme && git add README.md"
+  },
+  "types": "lib/index.d.ts"
+}
