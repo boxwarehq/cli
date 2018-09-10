@@ -10,7 +10,7 @@ Boxware let's you try, use & modify desktop software in your browser without dow
 
 This is how it feels : 
 
-![Imgur](https://i.imgur.com/9RTKbte.gif)
+![Try on Boxware gif](https://i.imgur.com/9RTKbte.gif)
 
 
 # 🗒 Description
