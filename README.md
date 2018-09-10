@@ -8,6 +8,8 @@ Boxware let's you try, use & modify desktop software in your browser without dow
 
 [![Try on Boxware](https://cdn.boxware.io/try/button.svg)](https://boxware.io/dashboard?try=https://github.com/boxwarehq/cli) 
 
+This is how it feels : 
+
 ![Imgur](https://i.imgur.com/9RTKbte.gif)
 
 
