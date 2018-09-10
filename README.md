@@ -4,7 +4,7 @@
 Boxware let's you try, use & modify desktop software in your browser without downloading/installing anything. Try it with this repository by clicking this button: 
 
 [![Try on Boxware](https://cdn.boxware.io/try/button.svg)](https://boxware.io/dashboard?try=https://github.com/boxwarehq/cli) 
-[![Build Status](https://travis-ci.org/boxwarehq/cli.svg?branch=master)](https://travis-ci.org/boxwarehq/cli) 
+[![Build Status](https://travis-ci.org/boxwarehq/boxware-cli.svg?branch=master)](https://travis-ci.org/boxwarehq/cli) 
 [![GitHub license](https://img.shields.io/github/license/boxwarehq/cli.svg)](https://github.com/boxwarehq/cli) 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io) 
 
