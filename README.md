@@ -27,6 +27,10 @@ Boxware compresses video of your software running on our servers and streams it 
 
 ### Step 1 : Enter your repository folder using your terminal  
 
+```
+$ cd <repository directory>
+```
+
 ### Step 2 : Use the Boxware CLI to auto-generate `boxware.json` manifest file in your repository: 
 ```
 $ npm install -g boxware
