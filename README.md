@@ -55,6 +55,7 @@ Replace your own repository link in the markdown text above. That's it! That'll 
     "repository": "https://github.com/boxwarehq/cli",
     "template": "boxware/ubuntu-base",
     "folder": "~/AwesomeTestFolder/Sub",
+    "hardware": "t2.medium", 
     "commands": [
         "subl boxware.json",
         "subl package.json"
