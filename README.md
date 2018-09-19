@@ -4,7 +4,7 @@
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io) 
 ===========
 
-Boxware let's you try, use & modify desktop software in your browser without downloading/installing anything. Try it with this repository by clicking this button: 
+Boxware let's you try, use & modify desktop software in your browser without downloading/installing anything. Try it with this repository by clicking the button below: 
 
 [![Try on Boxware](https://cdn.boxware.io/try/button.svg)](https://boxware.io/dashboard?try=https://github.com/boxwarehq/cli) 
 
