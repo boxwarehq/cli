@@ -75,7 +75,7 @@ Replace your own repository link in the markdown text above. That's it! That'll 
 
 # Advanced Users
 
-If the desktop environment/configuration required to run your software is more complicated, then you can create your own public template on Boxware and specify it in manifest file. This is automatically used to create new desktop whenever your users want to try/use your software on it. We're still in beta and will soon release a tool allowing anyone to create and customize templates. If you want to try it early, join us at slack.boxware.io
+If the desktop environment/configuration required to run your software is more complicated, then you can create your own public template on Boxware and specify it in manifest file. This is automatically used to create new desktop whenever your users want to try/use your software on it. We're still in beta and will soon release a tool allowing anyone to create and customize templates. If you want to try it early, join us at [!slack.boxware.io](slack.boxware.io)
 
 # 📣 Feedback
-If you need help, have any suggestions or just want to let us know what you think of Boxware, send us a message on slack.boxware.io
+If you need help, have any suggestions or just want to let us know what you think of Boxware, send us a message on [!slack.boxware.io](slack.boxware.io)
