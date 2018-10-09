@@ -1,13 +1,12 @@
 {
-    "name": "Boxware Test",
+    "name": "hlf-docker-swarm-PC",
     "version": "0.0.1",
-    "description": "Test App Manifest",
-    "repository": "https://github.com/boxwarehq/cli",
+    "description": "Sample Hyperledger Fabric Network - Docker Swarm",
+    "repository": "https://github.com/skcript/hlf-docker-swarm",
     "image": "boxware/ubuntu-base",
     "hardware": "t2.medium",
-    "folder": "~/AwesomeTestFolder/Sub",
+    "folder": "~/Desktop",
     "commands": [
-        "subl package.json",
-        "subl boxware.json"
+        ""
     ]
 }
